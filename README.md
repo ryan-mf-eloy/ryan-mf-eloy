@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Vite-6469FF?style=flat&logo=vite&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Vitest-6469FF?style=flat&logo=vite&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Vitest-4ade80?style=flat&logo=vite&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Jest-944058?style=flat&logo=jest&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat&logo=react&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next-dot-js&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="50"/>
@@ -25,4 +26,9 @@
   <img src="https://img.shields.io/badge/-Ansible-990000?style=flat&logo=ansible&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white" height="50"/>
-</p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6300?style=flat&logo=rabbitmq&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Terraform-5835CC?style=flat&logo=terraform&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="50"/>
+<p>
